@@ -4,9 +4,9 @@ Simple base used to make a Telegram Bot in [`telethon`](https://github.com/Lonam
 
 
 ### Variables
-`API_ID` - get from [my.telegram.org](https://my.telegram.org)
-`API_HASH` - get from [my.telegram.org](https://my.telegram.org)
-`BOT_TOKEN` - get one from [@botfather](https://t.me/botfather)
+[`API_ID`](./blob/dc8ec7f6d50818c8c133a6a937c29b4cf0e5df27/Dion.py#L8) - get from [my.telegram.org](https://my.telegram.org)
+[`API_HASH`](./blob/dc8ec7f6d50818c8c133a6a937c29b4cf0e5df27/Dion.py#L9) - get from [my.telegram.org](https://my.telegram.org)
+[`BOT_TOKEN`](./blob/dion/blob/dc8ec7f6d50818c8c133a6a937c29b4cf0e5df27/Dion.py#L9) - get one from [@botfather](https://t.me/botfather)
 
 
 ### License 
@@ -23,5 +23,5 @@ Simple base used to make a Telegram Bot in [`telethon`](https://github.com/Lonam
 
 • [Me.](https://github.com/SeorangDion)
 
-• [Telethon](https://github.com/LonamiWebs/Telethon)
+• [Lonami](https://github.com/lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
 
