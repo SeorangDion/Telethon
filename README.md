@@ -15,6 +15,8 @@ Simple base used to make a Telegram Bot in [`telethon`](https://github.com/Lonam
 [![GNU License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)   
 [Telethon-Bot](.) is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) V3 or later.
 
+### Manager Bot
+<a href="https://github.com/SeorangDion/DionBot"><img src="https://img.shields.io/badge/  -Click Here-gray.svg?style=for-the-badge&logo=Dion" alt="Dion Bot"></a>
 
 ## Credits 
 </details>
